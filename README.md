@@ -7,14 +7,14 @@
   - it's follows grid layout.
 
 ## Style.css
-  -This contains CSS codes.
+  - This contains CSS codes.
 
 ## Script.js
-  -This contains javascript codes.
-  -used for responsive layout navbar.
+  - This contains javascript codes.
+  - used for responsive layout navbar.
 
 ## Responsive Layout for Iphone X
-  -It is responsive for Iphone X.
+  - It is responsive for Iphone X.
 
 # Currently, Live on the vercel which link is provided below.
 
